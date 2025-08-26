@@ -8,6 +8,10 @@ describe("Sumar", () => {
   it("deberia dividir dos numeros", () => {
     expect(dividir(4, 2)).toEqual(2);
   });
+
+  it("deberia dividir dos numeros cualquiera", () => {
+    expect(dividir(10, 2)).toEqual(5);
+  });
 });
 
 

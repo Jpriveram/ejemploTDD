@@ -2,7 +2,7 @@ function sumar(a, b) {
   return a + b;
 }
 
-function dividir() {
-  return 2;
+function dividir(a, b) {
+  return a / b;
 }
 export {sumar,dividir};
