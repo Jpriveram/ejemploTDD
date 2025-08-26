@@ -1,4 +1,4 @@
-import {sumar,dividir} from "./sumador.js";
+import {sumar,dividir} from "./calculadora.js";
 
 describe("Sumar", () => {
   it("deberia sumar dos numeros", () => {

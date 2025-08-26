@@ -1,16 +1,35 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "1aa2e560d23a675326acf68733cc1810094848d0",
     "author": "Juan Pablo",
     "commit": {
       "date": "2025-08-26T13:39:00.000Z",
       "message": "feat:Calculadora realiza divison de dos numeros",
-      "url": "https://github.com/Jpriveram/ejemploTDD/commit/HEAD"
+      "url": "https://github.com/Jpriveram/ejemploTDD/commit/1aa2e560d23a675326acf68733cc1810094848d0"
     },
     "stats": {
       "total": 11,
       "additions": 9,
       "deletions": 2,
+      "date": "2025-08-26"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Juan Pablo",
+    "commit": {
+      "date": "2025-08-26T13:40:38.000Z",
+      "message": "refactoring: Se cambio el nombre del archivo de logica",
+      "url": "https://github.com/Jpriveram/ejemploTDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 2,
+      "additions": 1,
+      "deletions": 1,
       "date": "2025-08-26"
     },
     "coverage": 100,
