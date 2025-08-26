@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "09caab13937db8aaa96a654a7d0ba904ef6d8a6c",
     "author": "Juan Pablo",
     "commit": {
       "date": "2025-08-26T13:43:58.000Z",
       "message": "feat: Divide dos numeros",
-      "url": "https://github.com/Jpriveram/ejemploTDD/commit/HEAD"
+      "url": "https://github.com/Jpriveram/ejemploTDD/commit/09caab13937db8aaa96a654a7d0ba904ef6d8a6c"
     },
     "stats": {
       "total": 12,
@@ -72,6 +72,25 @@
     },
     "coverage": 100,
     "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Juan Pablo",
+    "commit": {
+      "date": "2025-08-26T13:45:38.000Z",
+      "message": "feat: Resta dos numeros cualquiera",
+      "url": "https://github.com/Jpriveram/ejemploTDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 6,
+      "deletions": 2,
+      "date": "2025-08-26"
+    },
+    "coverage": 100,
+    "test_count": 5,
     "failed_tests": 0,
     "conclusion": "success"
   }

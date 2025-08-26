@@ -6,7 +6,7 @@ function dividir(a, b) {
   return a / b;
 }
 
-function restar(){
-  return 8;
+function restar(a,b){
+  return a - b;
 }
 export {sumar,dividir,restar};

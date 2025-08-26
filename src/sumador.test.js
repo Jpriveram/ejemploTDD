@@ -16,6 +16,10 @@ describe("Sumar", () => {
   it("deberia restar dos numeros ", () => {
     expect(restar(10, 2)).toEqual(8);
   });
+
+  it("deberia restar dos numeros cualquiera", () => {
+    expect(restar(10, 9)).toEqual(1);
+  });
 });
 
 
