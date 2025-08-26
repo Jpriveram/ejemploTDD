@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Juan Pablo",
+    "commit": {
+      "date": "2025-08-26T13:39:00.000Z",
+      "message": "feat:Calculadora realiza divison de dos numeros",
+      "url": "https://github.com/Jpriveram/ejemploTDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 9,
+      "deletions": 2,
+      "date": "2025-08-26"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
