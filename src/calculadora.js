@@ -5,4 +5,8 @@ function sumar(a, b) {
 function dividir(a, b) {
   return a / b;
 }
-export {sumar,dividir};
+
+function restar(){
+  return 8;
+}
+export {sumar,dividir,restar};
